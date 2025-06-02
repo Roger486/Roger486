@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there! I'm Roger
 
-<!--
-**Roger486/Roger486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently finishing my **Web Development studies (DAW - Desarrollo de Aplicaciones Web)**. I've completed all the coursework and I'm now preparing to start my **internship**.
 
-Here are some ideas to get you started:
+💻 I'm genuinely enjoying all aspects of web development — from **frontend** and **backend** to working with **databases**. I'm always curious, always learning, and excited to keep building and improving!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies I'm working with
+
+- **Frontend**: HTML, CSS, JavaScript, Angular
+- **Backend**: PHP, Laravel, Node.js, Express
+- **Databases**: MySQL, MongoDB
+- **Tools & Others**: Git, GitHub, Figma
+
+---
+
+## 📌 Featured Projects
+
+Some recent or ongoing projects:
+
+- 🔧 [HostControl](https://github.com/Roger486/HostControl): My final degree project. I worked on the API for a reservation web application — developed in collaboration with an awesome team.
+- 📱 [HorseRaceGame](https://github.com/Roger486/HorseRaceGame): A JavaFX application focused on horse racing and betting. Built alongside an amazing group of teammates.
+
+---
+
+## 📫 Let's connect!
+
+- [LinkedIn](www.linkedin.com/in/roger-navarro-desarrollador)
+
+Thanks for stopping by! 😊
