@@ -20,7 +20,7 @@ I'm currently finishing my **Web Development studies (DAW - Desarrollo de Aplica
 Some recent or ongoing projects:
 
 - 🔧 [HostControl](https://github.com/Roger486/HostControl): My final degree project. I worked on the API for a reservation web application — developed in collaboration with an awesome team.
-- 📱 [HorseRaceGame](https://github.com/Roger486/HorseRaceGame): A JavaFX application focused on horse racing and betting. Built alongside an amazing group of teammates.
+- 📱 [HorseRaceGame](https://github.com/Roger486/HorseRaceGame): A modest JavaFX game application about horse racing and betting. Built alongside an amazing group of teammates.
 
 ---
 
