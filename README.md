@@ -19,7 +19,7 @@ I'm currently finishing my **Web Development studies (DAW - Desarrollo de Aplica
 
 Some recent or ongoing projects:
 
-- 👤 [Personal Portfolio]([https://github.com/Roger486/HostControl](https://github.com/Roger486/roger-portfolio)): My always WIP porfolio, I'm trully enjoying building it with React as I learn.
+- 👤 [Personal Portfolio](https://github.com/Roger486/roger-portfolio): My always WIP porfolio, I'm trully enjoying building it with React as I learn.
 - 🔧 [HostControl](https://github.com/Roger486/HostControl): My final degree project. I worked on the API for a reservation web application — developed in collaboration with an awesome team.
 - 📱 [HorseRaceGame](https://github.com/Roger486/HorseRaceGame): A modest JavaFX game application about horse racing and betting. Built alongside an amazing group of teammates.
 
