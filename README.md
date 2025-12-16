@@ -43,6 +43,6 @@ JavaFX application focused on **object-oriented programming** and **teamwork**.
 
 ## 📫 Let's connect!
 
-- [LinkedIn](www.linkedin.com/in/roger-navarro-desarrollador)
+- https://www.linkedin.com/in/roger-navarro-desarrollador
 
 Thanks for stopping by! 😊
