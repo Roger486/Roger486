@@ -14,7 +14,7 @@ I enjoy working across the entire stack — **frontend, backend, and databases**
 ### 🛠️ Tools & workflow
 - Git & GitHub (branching, pull requests)
 - REST APIs
-- Basic testing
+- Testing: Jest, Karma
 
 ---
 
