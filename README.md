@@ -18,6 +18,23 @@ I enjoy working across the entire stack — **frontend, backend, and databases**
 
 ---
 
+## 🧠 Case Study: SaaS Platform (Internship Project)
+
+Case study of a real full-stack SaaS application developed during my internship, where requirements changed mid-development and the system had to evolve without being rebuilt from scratch.
+
+Instead of focusing on code, this document explains the **technical decisions**, trade-offs, and how the architecture adapted over time.
+
+👉 https://github.com/Roger486/saas-platform-case-study
+
+**What’s covered:**
+- Backend structure by domain
+- Multi-tenant design and data isolation
+- Adapting the architecture to changing requirements
+- Trade-offs between abstraction and simplicity
+- Testing strategy and its real impact
+
+---
+
 ## 📌 Featured Projects
 
 ### 👤 [Personal Portfolio](https://github.com/Roger486/roger-portfolio)
