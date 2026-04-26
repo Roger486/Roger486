@@ -37,11 +37,6 @@ Instead of focusing on code, this document explains the **technical decisions**,
 
 ## 📌 Featured Projects
 
-### 👤 [Full Saas Platform Case Study]([https://github.com/Roger486/roger-portfolio](https://github.com/Roger486/saas-platform-case-study))
-This repository documents the engineering decisions behind a real SaaS platform I developed during my internship as a full-stack developer.
-
----
-
 ### 👤 [Personal Portfolio](https://github.com/Roger486/roger-portfolio)
 Always WIP portfolio built with **React**, focused on component structure, reusability, and learning modern frontend patterns.
 
